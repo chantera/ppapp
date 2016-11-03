@@ -1,13 +1,13 @@
 # PPAPP
 
-Pen-Pineapple-Apple-Pen for Python
+Pen-Pineapple-Apple-Pen for Python 🖋🍍🍎🖋  
 [PPAP](https://www.youtube.com/watch?v=0E00Zuayv9Q)
 
 
 ## Installation
 
 ```sh
-$ git https://github.com/chantera/ppapp
+$ git clone https://github.com/chantera/ppapp
 ```
 
 ## Usage
