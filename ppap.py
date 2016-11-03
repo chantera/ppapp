@@ -25,7 +25,7 @@ def ppap(iteration):
     pikotaro = PikoTaro()
     ap = pikotaro.uh([s.split()[-1] for s in ("I have a Pen", "I have a Apple")])
     print(ap)
-    pp = pikotaro.uh([s.split()[-1] for s in ("I have a Pen", "I have a Pineapple")])
+    pp = pikotaro.uh([s.split()[-1] for s in ("I have a Pen", "I have Pineapple")])
     print(pp)
     ppap = pikotaro.uh((ap, pp))
     print(ppap)
