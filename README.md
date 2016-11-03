@@ -7,7 +7,7 @@ Pen-Pineapple-Apple-Pen for Python 🖋🍍🍎🖋
 ## Installation
 
 ```sh
-$ git https://github.com/chantera/ppapp
+$ git clone https://github.com/chantera/ppapp
 ```
 
 ## Usage
